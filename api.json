@@ -1,302 +1,180 @@
-[
-  {
-    "Airtel store": "93 Alwarpet, Ramagundam, Telangana"
-  },
-  {
-    "Airtel store": "24 Adyar, Nalgonda, Telangana"
-  },
-  {
-    "Airtel store": "87 Alwarpet, Vikarabad, Telangana"
-  },
-  {
-    "Airtel store": "98 Aundh, Medak, Telangana"
-  },
-  {
-    "Airtel store": "79 Gachibowli, Hyderabad, Telangana"
-  },
-  {
-    "Airtel store": "7 Koramangala, Adilabad, Telangana"
-  },
-  {
-    "Airtel store": "49 Aundh, Adilabad, Telangana"
-  },
-  {
-    "Airtel store": "72 Vaishali Nagar, Miryalaguda, Telangana"
-  },
-  {
-    "Airtel store": "50 Sector 50, Mahbubnagar, Telangana"
-  },
-  {
-    "Airtel store": "49 Sector 62, Adilabad, Telangana"
-  },
-  {
-    "Airtel store": "85 Anna Salai, Nalgonda, Telangana"
-  },
-  {
-    "Airtel store": "65 Sector 44, Adilabad, Telangana"
-  },
-  {
-    "Airtel store": "78 Sector 62, Hyderabad, Telangana"
-  },
-  {
-    "Airtel store": "8 Sector 15, Adilabad, Telangana"
-  },
-  {
-    "Airtel store": "73 Salt Lake, Miryalaguda, Telangana"
-  },
-  {
-    "Airtel store": "38 Jayanagar, Jagtial, Telangana"
-  },
-  {
-    "Airtel store": "8 Ambattur, Adilabad, Telangana"
-  },
-  {
-    "Airtel store": "84 Connaught Place, Jangaon, Telangana"
-  },
-  {
-    "Airtel store": "10 Adyar, Jagtial, Telangana"
-  },
-  {
-    "Airtel store": "29 Sector 18, Narayanpet, Telangana"
-  },
-  {
-    "Airtel store": "91 South Ex, Ramagundam, Telangana"
-  },
-  {
-    "Airtel store": "26 Aundh, Jangaon, Telangana"
-  },
-  {
-    "Airtel store": "38 Gachibowli, Siddipet, Telangana"
-  },
-  {
-    "Airtel store": "69 HSR Layout, Miryalaguda, Telangana"
-  },
-  {
-    "Airtel store": "31 Kothrud, Karimnagar, Telangana"
-  },
-  {
-    "Airtel store": "30 Ballygunge, Khammam, Telangana"
-  },
-  {
-    "Airtel store": "17 Sarita Vihar, Suryapet, Telangana"
-  },
-  {
-    "Airtel store": "27 Sector 44, Narayanpet, Telangana"
-  },
-  {
-    "Airtel store": "32 Adyar, Siddipet, Telangana"
-  },
-  {
-    "Airtel store": "79 Model Town, Zaheerabad, Telangana"
-  },
-  {
-    "Airtel store": "42 Camp Area, Narayanpet, Telangana"
-  },
-  {
-    "Airtel store": "11 Sector 44, Ramagundam, Telangana"
-  },
-  {
-    "Airtel store": "35 Anna Salai, Jangaon, Telangana"
-  },
-  {
-    "Airtel store": "8 Rajouri Garden, Narayanpet, Telangana"
-  },
-  {
-    "Airtel store": "34 Koramangala, Khammam, Telangana"
-  },
-  {
-    "Airtel store": "97 South Ex, Bodhan, Telangana"
-  },
-  {
-    "Airtel store": "21 MG Road, Hyderabad, Telangana"
-  },
-  {
-    "Airtel store": "57 Malad West, Adilabad, Telangana"
-  },
-  {
-    "Airtel store": "67 Khar West, Narayanpet, Telangana"
-  },
-  {
-    "Airtel store": "66 Lokhandwala, Nalgonda, Telangana"
-  },
-  {
-    "Airtel store": "64 Indiranagar, Jagtial, Telangana"
-  },
-  {
-    "Airtel store": "28 Alwarpet, Adilabad, Telangana"
-  },
-  {
-    "Airtel store": "96 Park Street, Jangaon, Telangana"
-  },
-  {
-    "Airtel store": "25 Sector 62, Mancherial, Telangana"
-  },
-  {
-    "Airtel store": "25 Pimple Saudagar, Mancherial, Telangana"
-  },
-  {
-    "Airtel store": "24 Camp Area, Narayanpet, Telangana"
-  },
-  {
-    "Airtel store": "2 Sector 5, Siddipet, Telangana"
-  },
-  {
-    "Airtel store": "39 Residency Road, Siddipet, Telangana"
-  },
-  {
-    "Airtel store": "26 Jubilee Hills, Nalgonda, Telangana"
-  },
-  {
-    "Airtel store": "25 FC Road, Miryalaguda, Telangana"
-  },
-  {
-    "Airtel store": "34 South Ex, Narayanpet, Telangana"
-  },
-  {
-    "Airtel store": "9 Park Street, Bodhan, Telangana"
-  },
-  {
-    "Airtel store": "13 Salt Lake, Adilabad, Telangana"
-  },
-  {
-    "Airtel store": "30 Sector 50, Warangal, Telangana"
-  },
-  {
-    "Airtel store": "97 Sector 44, Miryalaguda, Telangana"
-  },
-  {
-    "Airtel store": "15 Sarita Vihar, Khammam, Telangana"
-  },
-  {
-    "Airtel store": "84 Ambattur, Nalgonda, Telangana"
-  },
-  {
-    "Airtel store": "36 Vaishali Nagar, Hyderabad, Telangana"
-  },
-  {
-    "Airtel store": "92 Connaught Place, Ramagundam, Telangana"
-  },
-  {
-    "Airtel store": "38 Ambattur, Jagtial, Telangana"
-  },
-  {
-    "Airtel store": "82 Connaught Place, Nalgonda, Telangana"
-  },
-  {
-    "Airtel store": "83 Sector 62, Nizamabad, Telangana"
-  },
-  {
-    "Airtel store": "61 Residency Road, Karimnagar, Telangana"
-  },
-  {
-    "Airtel store": "39 Jayanagar, Medak, Telangana"
-  },
-  {
-    "Airtel store": "72 Jayanagar, Siddipet, Telangana"
-  },
-  {
-    "Airtel store": "39 Residency Road, Vikarabad, Telangana"
-  },
-  {
-    "Airtel store": "28 HSR Layout, Hyderabad, Telangana"
-  },
-  {
-    "Airtel store": "79 Model Town, Zaheerabad, Telangana"
-  },
-  {
-    "Airtel store": "66 Sector 62, Hyderabad, Telangana"
-  },
-  {
-    "Airtel store": "82 Hitech City, Karimnagar, Telangana"
-  },
-  {
-    "Airtel store": "97 Malad West, Khammam, Telangana"
-  },
-  {
-    "Airtel store": "80 Model Town, Narayanpet, Telangana"
-  },
-  {
-    "Airtel store": "43 Wakad, Narayanpet, Telangana"
-  },
-  {
-    "Airtel store": "93 Anna Salai, Warangal, Telangana"
-  },
-  {
-    "Airtel store": "84 Kalighat, Warangal, Telangana"
-  },
-  {
-    "Airtel store": "27 Kothrud, Siddipet, Telangana"
-  },
-  {
-    "Airtel store": "57 HSR Layout, Karimnagar, Telangana"
-  },
-  {
-    "Airtel store": "28 Sakinaka, Karimnagar, Telangana"
-  },
-  {
-    "Airtel store": "26 Aundh, Jagtial, Telangana"
-  },
-  {
-    "Airtel store": "56 Kothrud, Miryalaguda, Telangana"
-  },
-  {
-    "Airtel store": "93 Camp Area, Siddipet, Telangana"
-  },
-  {
-    "Airtel store": "2 Vaishali Nagar, Nizamabad, Telangana"
-  },
-  {
-    "Airtel store": "47 MG Road, Hyderabad, Telangana"
-  },
-  {
-    "Airtel store": "64 Pimple Saudagar, Nizamabad, Telangana"
-  },
-  {
-    "Airtel store": "98 Alwarpet, Nizamabad, Telangana"
-  },
-  {
-    "Airtel store": "23 Park Street, Ramagundam, Telangana"
-  },
-  {
-    "Airtel store": "63 Gachibowli, Narayanpet, Telangana"
-  },
-  {
-    "Airtel store": "68 Ballygunge, Mahbubnagar, Telangana"
-  },
-  {
-    "Airtel store": "23 Residency Road, Jagtial, Telangana"
-  },
-  {
-    "Airtel store": "81 FC Road, Jagtial, Telangana"
-  },
-  {
-    "Airtel store": "83 Lajpat Nagar, Nizamabad, Telangana"
-  },
-  {
-    "Airtel store": "37 Koramangala, Suryapet, Telangana"
-  },
-  {
-    "Airtel store": "12 Lajpat Nagar, Karimnagar, Telangana"
-  },
-  {
-    "Airtel store": "61 Banjara Hills, Nizamabad, Telangana"
-  },
-  {
-    "Airtel store": "68 Residency Road, Mancherial, Telangana"
-  },
-  {
-    "Airtel store": "92 Ambattur, Adilabad, Telangana"
-  },
-  {
-    "Airtel store": "54 Lajpat Nagar, Suryapet, Telangana"
-  },
-  {
-    "Airtel store": "9 Hitech City, Vikarabad, Telangana"
-  },
-  {
-    "Airtel store": "33 T Nagar, Mahbubnagar, Telangana"
-  },
-  {
-    "Airtel store": "13 Sector 15, Miryalaguda, Telangana"
-  }
-]
+{
+      "city": "Delhi",
+      "store_name": "Airtel Connaught Place",
+      "address": "C-7, Connaught Place, New Delhi - 110001",
+      "phone": "011-23456789"
+    },
+    {
+      "city": "Delhi",
+      "store_name": "Airtel Lajpat Nagar",
+      "address": "B-12, Lajpat Nagar II, New Delhi - 110024",
+      "phone": "011-22334455"
+    },
+    {
+      "city": "Delhi",
+      "store_name": "Airtel Saket",
+      "address": "F-26, Select City Walk, Saket, New Delhi - 110017",
+      "phone": "011-22778899"
+    },
+    {
+      "city": "Mumbai",
+      "store_name": "Airtel Andheri West",
+      "address": "Shop No. 2, Andheri Link Road, Mumbai - 400053",
+      "phone": "022-22334411"
+    },
+    {
+      "city": "Mumbai",
+      "store_name": "Airtel Dadar",
+      "address": "G-10, Dadar Plaza, Mumbai - 400014",
+      "phone": "022-22334422"
+    },
+    {
+      "city": "Mumbai",
+      "store_name": "Airtel Borivali",
+      "address": "104, Western Heights, Borivali West, Mumbai - 400092",
+      "phone": "022-22334433"
+    },
+    {
+      "city": "Bangalore",
+      "store_name": "Airtel MG Road",
+      "address": "24, MG Road, Bangalore - 560001",
+      "phone": "080-22112211"
+    },
+    {
+      "city": "Bangalore",
+      "store_name": "Airtel Indiranagar",
+      "address": "12th Main, 100 Feet Rd, Indiranagar, Bangalore - 560038",
+      "phone": "080-22112222"
+    },
+    {
+      "city": "Bangalore",
+      "store_name": "Airtel Whitefield",
+      "address": "Forum Mall, Whitefield, Bangalore - 560066",
+      "phone": "080-22112233"
+    },
+    {
+      "city": "Chennai",
+      "store_name": "Airtel T Nagar",
+      "address": "56, Usman Road, T Nagar, Chennai - 600017",
+      "phone": "044-33445511"
+    },
+    {
+      "city": "Chennai",
+      "store_name": "Airtel Adyar",
+      "address": "2nd Ave, Adyar, Chennai - 600020",
+      "phone": "044-33445522"
+    },
+    {
+      "city": "Chennai",
+      "store_name": "Airtel Velachery",
+      "address": "Phoenix Marketcity, Velachery, Chennai - 600042",
+      "phone": "044-33445533"
+    },
+    {
+      "city": "Hyderabad",
+      "store_name": "Airtel Banjara Hills",
+      "address": "Rd No. 12, Banjara Hills, Hyderabad - 500034",
+      "phone": "040-33442211"
+    },
+    {
+      "city": "Hyderabad",
+      "store_name": "Airtel Hitech City",
+      "address": "Inorbit Mall, Hitech City, Hyderabad - 500081",
+      "phone": "040-33442222"
+    },
+    {
+      "city": "Hyderabad",
+      "store_name": "Airtel Kukatpally",
+      "address": "Main Rd, Kukatpally, Hyderabad - 500072",
+      "phone": "040-33442233"
+    },
+    {
+      "city": "Kolkata",
+      "store_name": "Airtel Park Street",
+      "address": "20B, Park Street, Kolkata - 700016",
+      "phone": "033-44556611"
+    },
+    {
+      "city": "Kolkata",
+      "store_name": "Airtel Salt Lake",
+      "address": "Sector V, Salt Lake City, Kolkata - 700091",
+      "phone": "033-44556622"
+    },
+    {
+      "city": "Kolkata",
+      "store_name": "Airtel Gariahat",
+      "address": "Gariahat Road, Ballygunge, Kolkata - 700019",
+      "phone": "033-44556633"
+    },
+    {
+      "city": "Pune",
+      "store_name": "Airtel Deccan",
+      "address": "JM Road, Deccan, Pune - 411004",
+      "phone": "020-22331111"
+    },
+    {
+      "city": "Pune",
+      "store_name": "Airtel Viman Nagar",
+      "address": "Phoenix Marketcity, Viman Nagar, Pune - 411014",
+      "phone": "020-22331122"
+    },
+    {
+      "city": "Pune",
+      "store_name": "Airtel Baner",
+      "address": "Baner Road, Pune - 411045",
+      "phone": "020-22331133"
+    },
+    {
+      "city": "Ahmedabad",
+      "store_name": "Airtel SG Highway",
+      "address": "SG Highway, Ahmedabad - 380015",
+      "phone": "079-22334411"
+    },
+    {
+      "city": "Ahmedabad",
+      "store_name": "Airtel Maninagar",
+      "address": "Maninagar East, Ahmedabad - 380008",
+      "phone": "079-22334422"
+    },
+    {
+      "city": "Ahmedabad",
+      "store_name": "Airtel Navrangpura",
+      "address": "Near Vijay Cross Rd, Navrangpura, Ahmedabad - 380009",
+      "phone": "079-22334433"
+    },
+    {
+      "city": "Jaipur",
+      "store_name": "Airtel MI Road",
+      "address": "Mirza Ismail Road, Jaipur - 302001",
+      "phone": "0141-66778811"
+    },
+    {
+      "city": "Jaipur",
+      "store_name": "Airtel Malviya Nagar",
+      "address": "GT Road, Malviya Nagar, Jaipur - 302017",
+      "phone": "0141-66778822"
+    },
+    {
+      "city": "Lucknow",
+      "store_name": "Airtel Hazratganj",
+      "address": "MG Road, Hazratganj, Lucknow - 226001",
+      "phone": "0522-33445566"
+    },
+    {
+      "city": "Lucknow",
+      "store_name": "Airtel Gomti Nagar",
+      "address": "Vibhuti Khand, Gomti Nagar, Lucknow - 226010",
+      "phone": "0522-33445577"
+    },
+    {
+      "city": "Bhopal",
+      "store_name": "Airtel MP Nagar",
+      "address": "Zone II, MP Nagar, Bhopal - 462011",
+      "phone": "0755-12345678"
+    },
+    {
+      "city": "Indore",
+      "store_name": "Airtel Vijay Nagar",
+      "address": "AB Road, Vijay Nagar, Indore - 452010",
+      "phone": "0731-87654321"
+    }
