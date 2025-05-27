@@ -1,151 +1,182 @@
-{
-      "city1": "Delhi",
-      "store_name1": "Airtel Connaught Place",
-      "address1": "C-7, Connaught Place, New Delhi - 110001",
-      "phone1": "011-23456789"
-  
-      "city2": "Delhi",
-      "store_name2": "Airtel Lajpat Nagar",
-      "address2": "B-12, Lajpat Nagar II, New Delhi - 110024",
-      "phone2": "011-22334455"
-    
-      "city3": "Delhi",
-      "store_name3": "Airtel Saket",
-      "address3": "F-26, Select City Walk, Saket, New Delhi - 110017",
-      "phone3": "011-22778899"
-    
-      "city4": "Mumbai",
-      "store_name4": "Airtel Andheri West",
-      "address4": "Shop No. 2, Andheri Link Road, Mumbai - 400053",
-      "phone4": "022-22334411"
-   
-      "city5": "Mumbai",
-      "store_name5": "Airtel Dadar",
-      "address5": "G-10, Dadar Plaza, Mumbai - 400014",
-      "phone5": "022-22334422"
-   
-      "city6": "Mumbai",
-      "store_name6": "Airtel Borivali",
-      "address6": "104, Western Heights, Borivali West, Mumbai - 400092",
-      "phone6": "022-22334433"
-   
-      "city7": "Bangalore",
-      "store_name7": "Airtel MG Road",
-      "address7": "24, MG Road, Bangalore - 560001",
-      "phone7": "080-22112211"
-    
-      "city8": "Bangalore",
-      "store_name8": "Airtel Indiranagar",
-      "address8": "12th Main, 100 Feet Rd, Indiranagar, Bangalore - 560038",
-      "phone8": "080-22112222"
-    
-      "city9": "Bangalore",
-      "store_name9": "Airtel Whitefield",
-      "address9": "Forum Mall, Whitefield, Bangalore - 560066",
-      "phone9": "080-22112233"
-    
-      "city10": "Chennai",
-      "store_name10": "Airtel T Nagar",
-      "address10": "56, Usman Road, T Nagar, Chennai - 600017",
-      "phone10": "044-33445511"
-   
-      "city11": "Chennai",
-      "store_name11": "Airtel Adyar",
-      "address11": "2nd Ave, Adyar, Chennai - 600020",
-      "phone11": "044-33445522"
-   
-      "city12": "Chennai",
-      "store_name12": "Airtel Velachery",
-      "address12": "Phoenix Marketcity, Velachery, Chennai - 600042",
-      "phone12": "044-33445533"
-   
-      "city13": "Hyderabad",
-      "store_name13": "Airtel Banjara Hills",
-      "address13": "Rd No. 12, Banjara Hills, Hyderabad - 500034",
-      "phone13": "040-33442211"
-    
-      "city14": "Hyderabad",
-      "store_name14": "Airtel Hitech City",
-      "address14": "Inorbit Mall, Hitech City, Hyderabad - 500081",
-      "phone14": "040-33442222"
-   
-      "city15": "Hyderabad",
-      "store_name15": "Airtel Kukatpally",
-      "address15": "Main Rd, Kukatpally, Hyderabad - 500072",
-      "phone15": "040-33442233"
-   
-      "city16": "Kolkata",
-      "store_name16": "Airtel Park Street",
-      "address16": "20B, Park Street, Kolkata - 700016",
-      "phone16": "033-44556611"
-    
-      "city17": "Kolkata",
-      "store_name17": "Airtel Salt Lake",
-      "address17": "Sector V, Salt Lake City, Kolkata - 700091",
-      "phone17": "033-44556622"
-    
-      "city18": "Kolkata",
-      "store_name18": "Airtel Gariahat",
-      "address18": "Gariahat Road, Ballygunge, Kolkata - 700019",
-      "phone18": "033-44556633"
-    
-      "city19": "Pune",
-      "store_name19": "Airtel Deccan",
-      "address19": "JM Road, Deccan, Pune - 411004",
-      "phone19": "020-22331111"
-    
-      "city20": "Pune",
-      "store_name20": "Airtel Viman Nagar",
-      "address20": "Phoenix Marketcity, Viman Nagar, Pune - 411014",
-      "phone20": "020-22331122"
-   
-      "city21": "Pune",
-      "store_name21": "Airtel Baner",
-      "address21": "Baner Road, Pune - 411045",
-      "phone21": "020-22331133"
-    
-      "city22": "Ahmedabad",
-      "store_name22": "Airtel SG Highway",
-      "address22": "SG Highway, Ahmedabad - 380015",
-      "phone22": "079-22334411"
-   
-      "city23": "Ahmedabad",
-      "store_name23": "Airtel Maninagar",
-      "address23": "Maninagar East, Ahmedabad - 380008",
-      "phone23": "079-22334422"
-    
-      "city24": "Ahmedabad",
-      "store_name24": "Airtel Navrangpura",
-      "address24": "Near Vijay Cross Rd, Navrangpura, Ahmedabad - 380009",
-      "phone24": "079-22334433"
-    
-      "city25": "Jaipur",
-      "store_name25": "Airtel MI Road",
-      "address25": "Mirza Ismail Road, Jaipur - 302001",
-      "phone25": "0141-66778811"
-    
-      "city26": "Jaipur",
-      "store_name26": "Airtel Malviya Nagar",
-      "address26": "GT Road, Malviya Nagar, Jaipur - 302017",
-      "phone26": "0141-66778822"
-    
-      "city27": "Lucknow",
-      "store_name27": "Airtel Hazratganj",
-      "address27": "MG Road, Hazratganj, Lucknow - 226001",
-      "phone27": "0522-33445566"
-    
-      "city28": "Lucknow",
-      "store_name28": "Airtel Gomti Nagar",
-      "address28": "Vibhuti Khand, Gomti Nagar, Lucknow - 226010",
-      "phone28": "0522-33445577"
-  
-      "city29": "Bhopal",
-      "store_name29": "Airtel MP Nagar",
-      "address29": "Zone II, MP Nagar, Bhopal - 462011",
-      "phone29": "0755-12345678"
-    
-      "city30": "Indore",
-      "store_name30": "Airtel Vijay Nagar",
-      "address30": "AB Road, Vijay Nagar, Indore - 452010",
-      "phone30": "0731-87654321"
+ [
+    {
+      "city": "Delhi",
+      "store_name": "Airtel Connaught Place",
+      "address": "C-7, Connaught Place, New Delhi - 110001",
+      "phone": "011-23456789"
+    },
+    {
+      "city": "Delhi",
+      "store_name": "Airtel Lajpat Nagar",
+      "address": "B-12, Lajpat Nagar II, New Delhi - 110024",
+      "phone": "011-22334455"
+    },
+    {
+      "city": "Delhi",
+      "store_name": "Airtel Saket",
+      "address": "F-26, Select City Walk, Saket, New Delhi - 110017",
+      "phone": "011-22778899"
+    },
+    {
+      "city": "Mumbai",
+      "store_name": "Airtel Andheri West",
+      "address": "Shop No. 2, Andheri Link Road, Mumbai - 400053",
+      "phone": "022-22334411"
+    },
+    {
+      "city": "Mumbai",
+      "store_name": "Airtel Dadar",
+      "address": "G-10, Dadar Plaza, Mumbai - 400014",
+      "phone": "022-22334422"
+    },
+    {
+      "city": "Mumbai",
+      "store_name": "Airtel Borivali",
+      "address": "104, Western Heights, Borivali West, Mumbai - 400092",
+      "phone": "022-22334433"
+    },
+    {
+      "city": "Bangalore",
+      "store_name": "Airtel MG Road",
+      "address": "24, MG Road, Bangalore - 560001",
+      "phone": "080-22112211"
+    },
+    {
+      "city": "Bangalore",
+      "store_name": "Airtel Indiranagar",
+      "address": "12th Main, 100 Feet Rd, Indiranagar, Bangalore - 560038",
+      "phone": "080-22112222"
+    },
+    {
+      "city": "Bangalore",
+      "store_name": "Airtel Whitefield",
+      "address": "Forum Mall, Whitefield, Bangalore - 560066",
+      "phone": "080-22112233"
+    },
+    {
+      "city": "Chennai",
+      "store_name": "Airtel T Nagar",
+      "address": "56, Usman Road, T Nagar, Chennai - 600017",
+      "phone": "044-33445511"
+    },
+    {
+      "city": "Chennai",
+      "store_name": "Airtel Adyar",
+      "address": "2nd Ave, Adyar, Chennai - 600020",
+      "phone": "044-33445522"
+    },
+    {
+      "city": "Chennai",
+      "store_name": "Airtel Velachery",
+      "address": "Phoenix Marketcity, Velachery, Chennai - 600042",
+      "phone": "044-33445533"
+    },
+    {
+      "city": "Hyderabad",
+      "store_name": "Airtel Banjara Hills",
+      "address": "Rd No. 12, Banjara Hills, Hyderabad - 500034",
+      "phone": "040-33442211"
+    },
+    {
+      "city": "Hyderabad",
+      "store_name": "Airtel Hitech City",
+      "address": "Inorbit Mall, Hitech City, Hyderabad - 500081",
+      "phone": "040-33442222"
+    },
+    {
+      "city": "Hyderabad",
+      "store_name": "Airtel Kukatpally",
+      "address": "Main Rd, Kukatpally, Hyderabad - 500072",
+      "phone": "040-33442233"
+    },
+    {
+      "city": "Kolkata",
+      "store_name": "Airtel Park Street",
+      "address": "20B, Park Street, Kolkata - 700016",
+      "phone": "033-44556611"
+    },
+    {
+      "city": "Kolkata",
+      "store_name": "Airtel Salt Lake",
+      "address": "Sector V, Salt Lake City, Kolkata - 700091",
+      "phone": "033-44556622"
+    },
+    {
+      "city": "Kolkata",
+      "store_name": "Airtel Gariahat",
+      "address": "Gariahat Road, Ballygunge, Kolkata - 700019",
+      "phone": "033-44556633"
+    },
+    {
+      "city": "Pune",
+      "store_name": "Airtel Deccan",
+      "address": "JM Road, Deccan, Pune - 411004",
+      "phone": "020-22331111"
+    },
+    {
+      "city": "Pune",
+      "store_name": "Airtel Viman Nagar",
+      "address": "Phoenix Marketcity, Viman Nagar, Pune - 411014",
+      "phone": "020-22331122"
+    },
+    {
+      "city": "Pune",
+      "store_name": "Airtel Baner",
+      "address": "Baner Road, Pune - 411045",
+      "phone": "020-22331133"
+    },
+    {
+      "city": "Ahmedabad",
+      "store_name": "Airtel SG Highway",
+      "address": "SG Highway, Ahmedabad - 380015",
+      "phone": "079-22334411"
+    },
+    {
+      "city": "Ahmedabad",
+      "store_name": "Airtel Maninagar",
+      "address": "Maninagar East, Ahmedabad - 380008",
+      "phone": "079-22334422"
+    },
+    {
+      "city": "Ahmedabad",
+      "store_name": "Airtel Navrangpura",
+      "address": "Near Vijay Cross Rd, Navrangpura, Ahmedabad - 380009",
+      "phone": "079-22334433"
+    },
+    {
+      "city": "Jaipur",
+      "store_name": "Airtel MI Road",
+      "address": "Mirza Ismail Road, Jaipur - 302001",
+      "phone": "0141-66778811"
+    },
+    {
+      "city": "Jaipur",
+      "store_name": "Airtel Malviya Nagar",
+      "address": "GT Road, Malviya Nagar, Jaipur - 302017",
+      "phone": "0141-66778822"
+    },
+    {
+      "city": "Lucknow",
+      "store_name": "Airtel Hazratganj",
+      "address": "MG Road, Hazratganj, Lucknow - 226001",
+      "phone": "0522-33445566"
+    },
+    {
+      "city": "Lucknow",
+      "store_name": "Airtel Gomti Nagar",
+      "address": "Vibhuti Khand, Gomti Nagar, Lucknow - 226010",
+      "phone": "0522-33445577"
+    },
+    {
+      "city": "Bhopal",
+      "store_name": "Airtel MP Nagar",
+      "address": "Zone II, MP Nagar, Bhopal - 462011",
+      "phone": "0755-12345678"
+    },
+    {
+      "city": "Indore",
+      "store_name": "Airtel Vijay Nagar",
+      "address": "AB Road, Vijay Nagar, Indore - 452010",
+      "phone": "0731-87654321"
     }
+  ]
